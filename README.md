@@ -1,0 +1,1 @@
+Counting word/letter occurances in a string from a pre-defined array of words
